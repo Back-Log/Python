@@ -1,2 +1,2 @@
 # Python
-All Python related programs
+Ping game using pygame
